@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">健身APP</string>
+    <string name="stand_name">站姿</string>
+    <string name="sitting_name">坐姿</string>
+</resources>
